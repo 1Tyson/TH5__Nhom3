@@ -1,8 +1,8 @@
 # 🎓 BÀI THỰC HÀNH 05: TẠO, QUẢN LÝ VÀ CHIA SẺ NỘI DUNG SỐ
 
-> **Nhóm thực hiện:** Nhóm 02  
+> **Nhóm thực hiện:** Nhóm 03
 > **Môn học:** Ứng dụng công nghệ số  
-> **Giảng viên hướng dẫn:** (Điền tên giảng viên nếu có)
+> **Giảng viên hướng dẫn:** Nguyễn Minh Trung
 
 ---
 
